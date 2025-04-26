@@ -5,7 +5,7 @@
 I'm a passionate **Frontend Web Developer** and **UI/UX Designer**. I love creating intuitive and dynamic user experiences on the web. Currently, I'm diving deeper into **Next.js** to build more efficient and scalable web applications.
 
 - 🌱 I’m currently learning **Next.js**
-- 📖 2nd year Arts Student
+- 📖 3rd year Arts Student
 - 💬 Ask me about **frontend development**, **UI/UX design**
 - 📫 How to reach me: contact@advith.pro
 
